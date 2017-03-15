@@ -3,7 +3,6 @@
  * Set.java
  *
  *    Set is a registered trademark of Set Enterprises, Inc.
- *    Weicon Conan Yuan
  *    27 February 2000
  *
  ************************************************************************/
